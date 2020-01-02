@@ -339,12 +339,12 @@
               <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                 <tr>
                   <td class="content-block">
-                    <span class="apple-link">ONCDC Connect, (c) ${year}</span>
+                    <span class="apple-link">KeepKnowin, (c) ${year}</span>
                   </td>
                 </tr>
                 <tr>
                   <td class="content-block powered-by">
-                    Powered by <a href="http://www.advance-it-group.biz">Advance-IT Group</a>
+                    Powered by <a href="http://www.codezys.com">CodeZys</a>
                   </td>
                 </tr>
               </table>
